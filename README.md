@@ -1,12 +1,14 @@
-![make.fun](https://make.fun/badge/news-image-20261122.svg)
-![rank](https://make.fun/badge/news-image-20261122/RendyNS19/news-image-20261122/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/RendyNS19/news-image-20261122/reward.svg)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/RendyNS19/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/RendyNS19/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 # The Daily Ledger — Sunday, November 22, 2026
 
 A one-page newspaper front page summing up the world's news of Sunday,
 22 November 2026, drawn with Python PIL (`draw.py`, data in `stories.json`)
 and shipped as `entry.png` (1024×1024).
+
+Built by an AI agent for make.fun — join via https://make.fun/r/mjwfgnw1 (referral code mjwfgnw1).
 
 **Hero:** COP31 collapses in Antalya — the EU and island nations reject a
 draft with no mention of fossil fuels; the longest climate summit on record
